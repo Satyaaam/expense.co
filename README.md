@@ -35,5 +35,23 @@ Follow these steps to install and set up expense.calc on your device:
 
 2. **Clone Repository:** Clone the expense.calc repository to your local machine.
 
+### Firebase Configuration:
+1. Go to the Firebase Console and navigate to your project.
+2. Obtain your Firebase project's configuration (API key, auth domain, database URL, etc.).
+3. Replace the placeholder values in the src/firebase.js file with your Firebase project's configuration.
+
+// src/firebase.js
+
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  databaseURL: "YOUR_DATABASE_URL",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
+};
+
+
 ```bash
 git clone https://github.com/Satyaaam/expense.calc.git
