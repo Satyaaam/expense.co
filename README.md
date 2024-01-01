@@ -1,21 +1,26 @@
 # expense.calc - Expense Tracker App
 
 
-![image](https://github.com/Satyaaam/expenses/assets/118035430/8a28d3fc-915e-48b8-a32a-83128e8e6f09)
-![image](https://github.com/Satyaaam/expenses/assets/118035430/ce2ea2f6-4c35-4c1f-ac41-2bd806bec88f)
-![image](https://github.com/Satyaaam/expenses/assets/118035430/8d19d218-bc97-4983-8301-13a9ad15c333)
-
-![image](https://github.com/Satyaaam/expenses/assets/118035430/8a4901cb-1268-4b32-a999-dce9537334d8)
-
-![image](https://github.com/Satyaaam/expenses/assets/118035430/bee51f12-e79f-4951-ac97-c6aeb43e20ac)
-![image](https://github.com/Satyaaam/expenses/assets/118035430/1bf1cdda-4bdd-4022-9f2a-ff76f6bd96ae)
-![image](https://github.com/Satyaaam/expenses/assets/118035430/fb338164-9efe-45cc-a63f-906ec2f418fe)
-
-![image](https://github.com/Satyaaam/expenses/assets/118035430/232540c1-31ed-4db8-8ca0-823e4129b53c)
-![image](https://github.com/Satyaaam/expenses/assets/118035430/db573387-5295-40cc-9902-f9930a5cd487)
-
-
 expense.calc is a user-friendly expense tracker app designed to help you effortlessly manage and monitor your expenses. With features like trip-specific expense tracking, Firebase integration for seamless data storage, and user authentication through login and signup functionalities, expense.calc aims to simplify your financial tracking experience.
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/8a28d3fc-915e-48b8-a32a-83128e8e6f09" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/ce2ea2f6-4c35-4c1f-ac41-2bd806bec88f" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/8d19d218-bc97-4983-8301-13a9ad15c333" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/8a4901cb-1268-4b32-a999-dce9537334d8" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/bee51f12-e79f-4951-ac97-c6aeb43e20ac" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/1bf1cdda-4bdd-4022-9f2a-ff76f6bd96ae" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/fb338164-9efe-45cc-a63f-906ec2f418fe" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/232540c1-31ed-4db8-8ca0-823e4129b53c" width="300">
+
+<img src="https://github.com/Satyaaam/expenses/assets/118035430/db573387-5295-40cc-9902-f9930a5cd487" width="300">
+
 
 ## Features
 
